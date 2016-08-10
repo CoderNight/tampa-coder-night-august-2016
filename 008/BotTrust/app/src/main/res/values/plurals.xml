@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals
+        name="total_time">
+        <item quantity="zero">Total time: 0 seconds</item>
+        <item quantity="one">Total time: 1 second</item>
+        <item quantity="other">Total time: %d seconds</item>
+    </plurals>
+</resources>

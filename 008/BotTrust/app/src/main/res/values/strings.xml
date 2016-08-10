@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bot Trust</string>
+
+    <string name="action_small_set">Small set</string>
+    <string name="action_large_set">Large set</string>
+    <string name="action_sim_all">Simulate all</string>
+    <string name="action_quick">Quick mode</string>
+
+    <string name="pos_1">1</string>
+    <string name="small_set">Small input set, case %1$d of %2$s:</string>
+    <string name="large_set">Large input set, case %1$d of %2$s:</string>
+    <string name="finished">Simulations finished</string>
+
+    <string name="output_txt">Case #%1$d: %2$d</string>
+
+</resources>
